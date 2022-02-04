@@ -1,0 +1,2 @@
+# onejar-admin
+Admin service
